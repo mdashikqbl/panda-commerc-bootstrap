@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.jrashik {
+    border-radius: 20px;
+}
+
+.by-now {
+    font-weight: 700;
+    background-image: linear-gradient(red, black);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.bgcolor {
+    background-color: #FCEAE8;
+    border-radius: 10px;
+
+}
+
+.margin {
+    margin-top: 100px;
+
+}
+
+.border-rd {
+    border-radius: 20px;
+}
+
+.bg-watch {
+    background-color: #FFA500;
+}
+
+.bg-bag {
+    background-color: #DA70D6;
+}
+
+.bg-shoes {
+    background-color: #0000FF;
+}
